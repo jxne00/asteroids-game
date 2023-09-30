@@ -9,3 +9,5 @@ To move the spaceship use the left and right keys on your keyboard, and shoot us
 ## Demo
 
 [Video demo](https://www.youtube.com/embed/6yKyXuVAY0I?si=P7bZDLg30kJe17zN)
+
+![](https://github.com/jxne00/asteroids-game/blob/main/assets/demo.gif)
